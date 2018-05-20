@@ -1,0 +1,75 @@
+baseURL = "localhost:1313"
+languageCode = "en-US"
+defaultContentLanguage = "es"
+
+title = "Comunes urbanos: Lecciones desde la Barcelona de principios del siglo XXI"
+theme = "learn"
+#themesdir = "../.."
+metaDataFormat = "yaml"
+defaultContentLanguageInSubdir= true
+
+[params]
+  editURL = "https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/"
+  description = "Tesis doctoral"
+  author = "Carlos Cámara-Menoyo"
+  showVisitedLinks = true
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[Languages]
+
+[Languages.es]
+title = "Comunes urbanos: Lecciones desde la Barcelona de principios del siglo XXI"
+weight = 1
+languageName = "Spanish"
+
+[[Languages.es.menu.shortcuts]] 
+name = "<i class='fa fa-fw fa-github'></i> Github repo"
+identifier = "ds"
+url = "https://github.com/matcornic/hugo-theme-learn"
+weight = 10
+
+[[Languages.es.menu.shortcuts]]
+name = "<i class='fa fa-fw fa-camera'></i> Showcases"
+url = "showcase"
+weight = 11
+
+[[Languages.es.menu.shortcuts]]
+name = "<i class='fa fa-fw fa-bookmark'></i> Hugo Documentation"
+identifier = "hugodoc"
+url = "https://gohugo.io/"
+weight = 20
+
+[[Languages.es.menu.shortcuts]]
+name = "<i class='fa fa-fw fa-bullhorn'></i> Credits"
+url = "/credits"
+weight = 30
+
+[Languages.en]
+title = "Documentation for Hugo Learn Theme"
+weight = 1
+languageName = "English"
+
+[[Languages.en.menu.shortcuts]] 
+name = "<i class='fa fa-fw fa-github'></i> Github repo"
+identifier = "ds"
+url = "https://github.com/matcornic/hugo-theme-learn"
+weight = 10
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fa fa-fw fa-camera'></i> Showcases"
+url = "showcase"
+weight = 11
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fa fa-fw fa-bookmark'></i> Hugo Documentation"
+identifier = "hugodoc"
+url = "https://gohugo.io/"
+weight = 20
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fa fa-fw fa-bullhorn'></i> Credits"
+url = "/credits"
+weight = 30
+
