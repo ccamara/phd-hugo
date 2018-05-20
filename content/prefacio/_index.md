@@ -1,7 +1,7 @@
 +++
 title = "Prefacio"
 description = ""
-weight = 1
+weight = 3
 +++
 
 Esta investigación es, sobre todo, un viaje por los comunes urbanos. Y
