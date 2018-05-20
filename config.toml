@@ -1,80 +1,88 @@
-baseURL = "/"
-
-languageCode = "es-es"
-DefaultContentLanguage = "es"
-title = "Comunes urbanos: Lecciones desde la Barcelona de principios del siglo XXI"
-theme = "docdock"
-#themesdir = "../.."
-pygmentsCodeFences = true
-pygmentsStyle = "monokailight"
-
+baseURL = "localhost:1313"
+languageCode = "en-US"
 defaultContentLanguage = "es"
-defaultContentLanguageInSubdir= false
-enableMissingTranslationPlaceholders = false
 
-
-# [Languages]
-# [Languages.en]
-# title = "Documentation for Hugo docDock"
-# weight = 1
-# languageName = "English"
-#
-# [Languages.fr]
-# title = "Documentation du thème docDock"
-# weight = 2
-# languageName = "Français"
-
-
-
+title = "Comunes urbanos: Lecciones desde la Barcelona de principios del siglo XXI"
+theme = "learn"
+#themesdir = "../.."
+metaDataFormat = "yaml"
+defaultContentLanguageInSubdir= true
 
 [params]
-editURL = "https://github.com/vjeantet/hugo-theme-docdock/edit/master/exampleSite/content/"
-showVisitedLinks = false # default is false
-themeStyle = "original" # "original" or "flex" # default "flex"
-themeVariant = "" # choose theme variant "green", "gold" , "gray", "blue" (default)
-ordersectionsby = "weight" # ordersectionsby = "title"
-disableHomeIcon = false # default is false
-disableSearch = false # default is false
-disableNavChevron = false # set true to hide next/prev chevron, default is false
-highlightClientSide = false # set true to use highlight.pack.js instead of the default hugo chroma highlighter
-menushortcutsnewtab = false # set true to open shortcuts links to a new tab/window
-enableGitInfo = true
+  editURL = "https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/"
+  description = "Tesis doctoral"
+  author = "Carlos Cámara-Menoyo"
+  showVisitedLinks = true
+  # Change default color scheme with a variant one. Can be "red", "blue", "green".
+  themeVariant = "orange"
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
 
-[[menu.shortcuts]]
-pre = "<h3>Más</h3>"
-name = "<i class='fa fa-bookmark'></i> <label>Sobre esta edición</label>"
+[Languages]
+
+[Languages.es]
+title = "Comunes urbanos: Lecciones desde la Barcelona de principios del siglo XXI"
+weight = 1
+languageName = "Spanish"
+
+[[Languages.es.menu.shortcuts]]
+name = "<i class='fa fa-fw fa-bookmark'></i> Sobre esta edición"
 identifier = "about"
 url = "/about"
 weight = 0
 
-[[menu.shortcuts]]
-name = "<i class='fa fa-user-circle'></i> <label>Sobre el autor</label>"
+[[Languages.es.menu.shortcuts]]
+name = "<i class='fa fa-fw fa-user-circle'></i> Sobre el autor"
 identifier = "author"
 url = "https://carloscamara.es"
 weight = 1
 
-[[menu.shortcuts]]
-pre = "<h3>Más</h3>"
-name = "<i class='fa fa-github'></i> <label>Github repo</label>"
+[[Languages.es.menu.shortcuts]]
+name = "<i class='fa fa-fw fa-github'></i> Github repo"
 identifier = "ds"
-url = "https://github.com/vjeantet/hugo-theme-docdock"
+url = "https://github.com/matcornic/hugo-theme-learn"
 weight = 10
 
-[[menu.shortcuts]]
-name = "<i class='fa fa-cloud-download'></i> <label>Download</label>"
-url = "https://github.com/vjeantet/hugo-theme-docdock/archive/master.zip"
+[[Languages.es.menu.shortcuts]]
+name = "<i class='fa fa-fw fa-camera'></i> Showcases"
+url = "showcase"
 weight = 11
 
-[[menu.shortcuts]]
-name = "<i class='fa fa-bookmark'></i> <label>Hugo Documentation</label>"
+[[Languages.es.menu.shortcuts]]
+name = "<i class='fa fa-fw fa-bookmark'></i> Hugo Documentation"
 identifier = "hugodoc"
 url = "https://gohugo.io/"
 weight = 20
 
-[[menu.shortcuts]]
-name = "<i class='fa fa-bullhorn'></i> <label>Credits</label>"
+[[Languages.es.menu.shortcuts]]
+name = "<i class='fa fa-fw fa-bullhorn'></i> Credits"
+url = "/credits"
+weight = 30
+
+[Languages.en]
+title = "Documentation for Hugo Learn Theme"
+weight = 1
+languageName = "English"
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fa fa-fw fa-github'></i> Github repo"
+identifier = "ds"
+url = "https://github.com/matcornic/hugo-theme-learn"
+weight = 10
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fa fa-fw fa-camera'></i> Showcases"
+url = "showcase"
+weight = 11
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fa fa-fw fa-bookmark'></i> Hugo Documentation"
+identifier = "hugodoc"
+url = "https://gohugo.io/"
+weight = 20
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fa fa-fw fa-bullhorn'></i> Credits"
 url = "/credits"
 weight = 30
