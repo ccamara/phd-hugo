@@ -1,4 +1,4 @@
-baseURL = "//phd.carloscamara.es"
+baseURL = "https://phd.carloscamara.es"
 languageCode = "es-ES"
 defaultContentLanguage = "es"
 
