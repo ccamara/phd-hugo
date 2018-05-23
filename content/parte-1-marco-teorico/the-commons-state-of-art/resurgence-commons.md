@@ -42,16 +42,16 @@ concept with multiple facets (political, social, urban, technological)
 and its meaning and scope is an issue of much controversy and debate. As
 Leif Jerram points out:
 
-For Elinor Ostrom \[\...\] 'commons' could be almost anything -including
-knowledge and computer code (Hess & Ostrom, 2007; Ostrom, 1990). For
-\[\...\] Jeremy Németh the commons can be thought of as a whole range of
-things, from libraries, through the Internet, sidewalks, light from a
-streetlamp, to the atmosphere or some food \[\...\]. And Hardt and Negri
-\[\...\] define the commons (though they call it 'the common') in yet
-another way, unconnected to the others: the common is that valuable part
-of something, the value of which is not determined by its use value, or
-labor inputs, but created and given freely by potential users, like the
-trendiness of a bar (Jerram, 2015, p. 47).
+> For Elinor Ostrom \[\...\] 'commons' could be almost anything -including
+> knowledge and computer code (Hess & Ostrom, 2007; Ostrom, 1990). For
+> \[\...\] Jeremy Németh the commons can be thought of as a whole range of
+> things, from libraries, through the Internet, sidewalks, light from a
+> streetlamp, to the atmosphere or some food \[\...\]. And Hardt and Negri
+> \[\...\] define the commons (though they call it 'the common') in yet
+> another way, unconnected to the others: the common is that valuable part
+> of something, the value of which is not determined by its use value, or
+> labor inputs, but created and given freely by potential users, like the
+> trendiness of a bar (Jerram, 2015, p. 47).
 
 This poses an indeed a problematic issue that derives from such a
 diverse concept. There are two opposed approximations to remedy this
@@ -77,12 +77,12 @@ sixteen years later by Yochai Benkler, who underlined that one of the
 most salient points of the common, no matter its nature, is the fact
 that:
 
-As opposed to property, is that no single person has exclusive control
-over the use and disposition of any particular resource in the commons.
-Instead, resources governed by commons may be used or disposed of by
-anyone among some (more or less well-defined) number of persons, under
-rules that may range from 'anything goes' to quite crisply articulated
-formal rules that are effectively enforced (Benkler, 2006, p. 61).
+> As opposed to property, is that no single person has exclusive control
+> over the use and disposition of any particular resource in the commons.
+> Instead, resources governed by commons may be used or disposed of by
+> anyone among some (more or less well-defined) number of persons, under
+> rules that may range from 'anything goes' to quite crisply articulated
+> formal rules that are effectively enforced (Benkler, 2006, p. 61).
 
 Both definitions share the fact that they provide a more comprehensive
 notion of property and they are focused on access to a common, which in
@@ -96,27 +96,27 @@ focus not on the resource itself or the notions of property but on the
 communities that manage them and the social relations that are
 established between them. For example John L. Sullivan, states that
 
-A commons arises whenever a given community decides that it wishes to
-manage a resource in a collective manner, with special regard for
-equitable access, use, and sustainability. The commons is a means by
-which individuals can band together with like-minded souls and express a
-sovereignty of their own (Sullivan, 2011, p. 234)[^56].
+> A commons arises whenever a given community decides that it wishes to
+> manage a resource in a collective manner, with special regard for
+> equitable access, use, and sustainability. The commons is a means by
+> which individuals can band together with like-minded souls and express a
+> sovereignty of their own (Sullivan, 2011, p. 234)[^56].
 
 Amita Baviskar and Vinay Gidwani, portray commons as goods or resources
 which involve practices that rely on communities (thus denoting a logic
 of social relations) and, as such:
 
-\[Commons\] involve 'being-in-common', or using resources in more or
-less shared, more or less non-subtractable ways through practices he
-\[historian Peter Linebaugh\] calls 'commoning'. Such collective
-practices are distinct in at least two ways: (1) they underwrite
-production and reproduction through the commons they depend upon and
-oversee, and (2) they typically do so through variable local
-arrangements that are more or less equalitarian, incorporative, and
-fair. In short, commons need communities: without sufficiently robust
-communities of people willing to create, maintain, and protect them,
-commons are at risk of falling into disarray or becoming privatised
-(Baviskar y Gidwani, 2011).
+> \[Commons\] involve 'being-in-common', or using resources in more or
+> less shared, more or less non-subtractable ways through practices he
+> \[historian Peter Linebaugh\] calls 'commoning'. Such collective
+> practices are distinct in at least two ways: (1) they underwrite
+> production and reproduction through the commons they depend upon and
+> oversee, and (2) they typically do so through variable local
+> arrangements that are more or less equalitarian, incorporative, and
+> fair. In short, commons need communities: without sufficiently robust
+> communities of people willing to create, maintain, and protect them,
+> commons are at risk of falling into disarray or becoming privatised
+> (Baviskar y Gidwani, 2011).
 
 By contrast, others like Michael Hardt and Antonio Negri (2009, p. viii)
 put both aspects of the commons --the resource and the community-- on
@@ -216,25 +216,13 @@ of commons of different types and nature that they grouped according to
 two parameters: degree of exclusion and subtractability, which resulted
 in the 2x2 matrix that can be seen in table 2.1.
 
-+---------------+---------------+-----------------------+-----------------------+
 |               |               | **Subtractability**   |                       |
-+---------------+---------------+-----------------------+-----------------------+
+| --------------|---------------|-----------------------|-----------------------|
 |               |               | **Low**               | **High**              |
-+---------------+---------------+-----------------------+-----------------------+
-| **Exclusion** | **Difficult** | Public goods          | Common-Pool Resources |
-|               |               |                       |                       |
-|               |               | Useful knowledge      | Libraries             |
-|               |               |                       |                       |
-|               |               | Sunsets               | Irrigation systems    |
-+---------------+---------------+-----------------------+-----------------------+
-|               | **Easy**      | Toll or club goods    | Private goods         |
-|               |               |                       |                       |
-|               |               | Journal subscriptions | Personal Computers    |
-|               |               |                       |                       |
-|               |               | Day-Care centers      | Doughnuts             |
-+---------------+---------------+-----------------------+-----------------------+
+| **Exclusion** | **Difficult** | <ul><li>Public goods</li><li>Useful knowledge</li><li>Sunsets </li> </ul>| <ul><li>Common-Pool Resources</li><li>Libraries</li><li>Irrigation systems </li> </ul>|
+|               | **Easy**      |<ul><li>Toll or club goods </li><li>Journal subscriptions</li><li>Day-Care centers   </li> </ul>| <ul><li>Private goods </li><li>Personal Computers</li><li>Doughnuts </li> </ul>|
 
-Tabl. 2.1: Types of goods classification. Source: Hess & Ostrom (2007)
+_Tabl. 2.1: Types of goods classification. Source: Hess & Ostrom (2007)_
 
 Although Ostrom would not go any further on this topic, Charlotte Hess
 continued her research on what she called "non-traditional Common Pool
@@ -259,6 +247,8 @@ classification in groups was somewhat arbitrary, as there were evident
 overlaps between sectors in some cases and there were some groups which
 had a clear physical dimension whereas others were in fact examples of
 social groups or collective action.
+
+{{< figure src="/img/cap2/hess-mapping-commons.png" title="Fig. 2.2. Charlotte Hess' mapping of the \"New Commons\"." numbered="true" >}}
 
 On the other hand, Yochai Benkler made an entirely different
 classification, as his proposal resulted from the combination of two
@@ -322,38 +312,17 @@ With such a variety of diverse classifications, we attempted to create
 our own one summarising some of the previous ones and resulting in the
 following table:
 
-+-----------------+-----------------+-----------------+-----------------+
 | **Resource**    | **Examples**    | **Scholars**    | **Features**    |
-+-----------------+-----------------+-----------------+-----------------+
-| Natural         | Forests,        | Ostrom, Bollier | Exclusive,      |
-| resources       | meadows, moors, |                 | limited         |
-|                 | water,          |                 |                 |
-|                 | fisheries\...   |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Culture and     | Creative        | Lessig, Hess,   | Non-exclusive   |
-| knowledge       | commons'        | Ostrom          |                 |
-|                 | licences, books |                 |                 |
-|                 | and writings,   |                 |                 |
-|                 | music,          |                 |                 |
-|                 | pictures\...    |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Technology      | FLOSS           | Stallman,       | Non-exclusive   |
-|                 |                 |                 |                 |
-|                 | Open Hardware   |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Cities and      | Communitarian   | Harvey          | Non-exclusive   |
-| urbanism        | equipments      |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| Genetic         |                 | Scharper and    |                 |
-| materials       |                 | Cunningham      |                 |
-+-----------------+-----------------+-----------------+-----------------+
+| ----------------|-----------------|-----------------|-----------------|
+| Natural resources | Forests, meadows, moors, water, fisheries\...      | Ostrom, Bollier | Exclusive, limited |
+| Culture and knowledge  | Creative commons' licences, books and writings, music, pictures\...    | Lessig, Hess, Ostrom  | Non-exclusive   |
+| Technology      | FLOSS, Open Hardware          | Stallman, Benkler     | Non-exclusive   |
+| Cities and urbanism     | Communitarian equipments  | Harvey          | Non-exclusive   |
+| Genetic materials      |                 | Scharper and Cunningham   |                 |
 | Food            | Soilent         | \-              | Exclusive       |
-+-----------------+-----------------+-----------------+-----------------+
-| Energy          | Somenergia      |                 | Exclusive/Non-e |
-|                 |                 |                 | xclusive        |
-+-----------------+-----------------+-----------------+-----------------+
+| Energy          | Somenergia      |                 | Exclusive/Non-exclusive |
 
-Tabl. 2.3: Commons' taxonomy proposal according to the type of resource.
+_Tabl. 2.3: Commons' taxonomy proposal according to the type of resource._
 
 Unfortunately, any of these attempts to classify the commons can easily
 be refuted because it is not possible to cover the whole spectrum of the
