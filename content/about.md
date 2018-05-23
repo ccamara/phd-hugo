@@ -8,4 +8,4 @@ Un buen amigo mío me dijo una vez que las tesis doctorales nunca se terminan, s
 Explicar que se trata de una versión online pensada para ser vista en pantalla y que se irá modificando ligeramente.
 Enlazar con la versión PDF.
 
-{{% button href="https://getgrav.org/" icon="fa fa-download" %}}Descargar PDF{{% /button %}}
+{{% button href="https://www.tdx.cat/handle/10803/565533" icon="fa fa-download" %}}Descargar en PDF{{% /button %}}

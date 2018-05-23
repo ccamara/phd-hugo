@@ -6,7 +6,7 @@ weight = 2
 
 +++
 
-The end of 20^th^ century has supposed a second resurgence of the
+The end of 20<sup>th</sup> century has supposed a second resurgence of the
 commons, as they have gone from being almost unnoticed for scholars to
 be studied from various disciplines (namely Ecology, Law, Sociology or
 Politics, just to mention a few): many articles, books and special
@@ -232,7 +232,7 @@ as the Internet, genetic data, outer space...) on the one hand and to
 the reconceptualization[^59] as commons of already existing publicly
 shared resources (like streets, playgrounds, urban gardens,
 hospitals...) on the other, a myriad of "new commons"[^60] emerged at
-the end of 20^th^ century. These new types of commons did not have any
+the end of 20<sup>th</sup> century. These new types of commons did not have any
 connection to traditional commons studied by Ostrom and, consequently,
 introduced an enormous diversity difficult to tackle without taking into
 account their own set of differences. As a result, she proposed a
@@ -258,15 +258,14 @@ commons is regulated or unregulated" (Benkler, 2006, p. 61). This
 combination of variables results in four types of commons that are
 summarised in Table 2.2 below.
 
-  --------------- ------------------------------ --------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Parameter**   **Variation**                  **Examples**                                                                                              **Notes**
-  Openness        Open to anyone                 Oceans, air, highway system
-                  Open to a defined group only   Pasture arrangements and most of Ostrom's CPRs described on Governing the Commons are of limited-access   "These are better thought of as limited common property regimes, rather than commons, because they behave as property vis-à-vis the entire world except members of the group who together hold them in common"
-  Regulation      Regulated                      Sidewalks, streets, roads and highways                                                                    The constraints, if any, are symmetric among all users and cannot be regulated by a single individual
-                  Unregulated                    Air
-  --------------- ------------------------------ --------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Paramter   | Variation  | Examples  | Notes |
+| -----------|------------|-----------|------ |
+| Openness   | Open to anyone                | Oceans, air, highway system  |   |
+|            | Open to a defined group only  | Pasture arrangements and most of Ostrom's CPRs described on Governing the Commons are of limited-access | "These are better thought of as limited common property regimes, rather than commons, because they behave as property vis-à-vis the entire world except members of the group who together hold them in common"  |
+| Regulation | Regulated   | Sidewalks, streets, roads and highways  | The constraints, if any, are symmetric among all users and cannot be regulated by a single individual  |
+|            | Unregulated | Air  |   |
 
-Tabl. 2.2: Benkler\'s taxonomy for the commons.
+_Tabl. 2.2: Benkler's taxonomy for the commons._
 
 Other examples of classifications are the ones provided by Bru Lain
 Escandell (2015a), who distinguishes between natural and digital commons
@@ -435,4 +434,4 @@ general definitions.
     limiting the detrimental forms of the common" (Hardt & Negri, 2009,
     p. viii).
 
-[^62]: [http://ifg.org](http://ifg.org/)
+[^62]: Visit http://ifg.org

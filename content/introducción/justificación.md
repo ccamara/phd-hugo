@@ -30,15 +30,15 @@ primero de forma sutil, en los últimos años de gobierno socialista y,
 posteriormente, de forma más evidente, tras la llegada de CIU al poder
 en 2011, no han hecho sino acentuarlo:
 
-Lo que antes se hacía con una cierta mala conciencia ahora se hace con
-cinismo y triunfalismo: privatización de los espacios públicos -incluso
-las aceras-, oferta de zonas enteras y bien posicionadas a los capitales
-financieros internacionales como en la zona del Puerto y Montjuic,
-favorecer el turismo de todo tipo en detrimento de los residentes como
-en la Barceloneta \[...\] El resultado es un sentimiento de desposesión
-de la ciudadanía, una creciente tendencia a aumentar las desigualdades
-sociales, una degradación de la imagen internacional de Barcelona, una
-pérdida de valor de la capital de Catalunya. (Borja, 2014b).
+> Lo que antes se hacía con una cierta mala conciencia ahora se hace con
+> cinismo y triunfalismo: privatización de los espacios públicos -incluso
+> las aceras-, oferta de zonas enteras y bien posicionadas a los capitales
+> financieros internacionales como en la zona del Puerto y Montjuic,
+> favorecer el turismo de todo tipo en detrimento de los residentes como
+> en la Barceloneta \[...\] El resultado es un sentimiento de desposesión
+> de la ciudadanía, una creciente tendencia a aumentar las desigualdades
+> sociales, una degradación de la imagen internacional de Barcelona, una
+> pérdida de valor de la capital de Catalunya. (Borja, 2014b).
 
 Tanto es así que son varias las voces que denuncian la mercantilización
 de la ciudad y que el modelo Barcelona ya no existe como tal, sino que

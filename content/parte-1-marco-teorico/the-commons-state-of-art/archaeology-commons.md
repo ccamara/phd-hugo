@@ -34,7 +34,8 @@ been studied from different perspectives, as we will further develop in
 the upcoming pages in which we will try to define the concept of the
 commons.
 
-![Evolution of documents containing the word “Commons” in Scopus database (1980-2016).](/img/cap2/scopus-commons-evolution.png)
+{{< figure src="/img/cap2/scopus-commons-evolution.png" title="Fig. 2.1. Evolution of documents containing the word “Commons” in Scopus database (1980-2016).." numbered="true" >}}
+
 
 From the Spanish perspective, Nebrija's Dictionary, a Spanish dictionary
 written in 1492, has an entry which explicitly defines the common[^40]
@@ -58,8 +59,8 @@ be highly imprecise to refer to the commons as a homogeneous ethos:
 Medieval commons was a phenomenon which covered a vast geography where
 communication was not always easy, and a long period of approximately
 four centuries that cover the slow decline of feudalism (from the end of
-14^th^ century to second half of 15^th^) and the birth of
-industrialization in 18^th^ century.
+14<sup>th</sup> century to second half of 15<sup>th</sup>) and the birth of
+industrialization in 18<sup>th</sup> century.
 
 By taking these figures into account, we can easily deduce that there is
 not one but several ways of understanding and practising the commons, as
@@ -115,7 +116,7 @@ to the extent that, as E.P. Thompson states, "access to an extensive
 common could be critical to the livelihood of many villages" (Thompson,
 2009, p. 177).
 
-However, between the end of 17^th^ century and the beginning of 18^th^,
+However, between the end of 17<sup>th</sup> century and the beginning of 18<sup>th</sup>,
 started to take place the slow decline that would eventually end with
 the common lands and with the societies organised around them: the
 parliamentary enclosures. These so-called parliamentary enclosures were
@@ -191,7 +192,7 @@ all the commons disappeared, not only from England but also from Europe,
 where similar processes also took place[^48]. However, this process of
 several centuries that brought to the almost extinction of the commons
 led to a new history of rebirth. Not only some similar commons survived
-throughout Europe to present days[^49], but at the end of the 20^th^
+throughout Europe to present days[^49], but at the end of the 20<sup>th</sup>
 century they would experience a second renaissance with a renovated and
 broader meaning[^50] that take this snapshot picturing the decline of
 the commons as the starting point in their propositions. It is such a

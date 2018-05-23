@@ -3,7 +3,7 @@ title = "Conclusiones"
 description = ""
 weight = 16
 chapter = false
-pre = ""
+pre = "<b>9. </b>"
 +++
 
 A lo largo de la presente investigación nos hemos propuesto estudiar las
