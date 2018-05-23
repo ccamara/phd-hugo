@@ -348,14 +348,14 @@ general definitions.
 
 [^51]: Such as the "International Association for the Study of the
     Commons"
-    ([[http://www.iasc-commons.org/]{.underline}](http://www.iasc-commons.org/)),
+    ([[http://www.iasc-commons.org/]](http://www.iasc-commons.org/)),
     a non-profit founded in 1989 to promote the understanding of
     institutions for the management of resources that are or could be
     held or used collectively as a commons by communities in developing
     and industrialized countries.
 
 [^52]: Like the "International Journal of the Commons"
-    ([[https://www.thecommonsjournal.org/]{.underline}](https://www.thecommonsjournal.org/)),
+    ([[https://www.thecommonsjournal.org/]](https://www.thecommonsjournal.org/)),
     an interdisciplinary peer-reviewed open-access journal, dedicated to
     furthering the understanding of institutions for use and management
     of resources that are (or could be) enjoyed collectively, being them

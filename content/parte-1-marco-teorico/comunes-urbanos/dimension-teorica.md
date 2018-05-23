@@ -307,6 +307,6 @@ denominan frecuentemente como comunes urbanos.
     tanto académicas como activistas de movimientos sociales, que nace
     en 2013 de la Ciutat Invisible de Sants y actúa amparado por la
     Fundación de los Comunes
-    ([[http://fundaciondeloscomunes.net/]{.underline}](http://fundaciondeloscomunes.net/)),
+    ([[http://fundaciondeloscomunes.net/]](http://fundaciondeloscomunes.net/)),
     de la que participan distintos centros sociales, librerías y grupos
     de investigación del Estado español.

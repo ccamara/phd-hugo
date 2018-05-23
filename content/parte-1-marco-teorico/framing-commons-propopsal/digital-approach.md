@@ -118,16 +118,16 @@ Foundation in February 1986 (Stallman, 1986). According to FSF, software
 can be considered as free if people who receive a copy of it have the
 following four freedoms (GNU, 1996):
 
--   **Freedom 0:** The freedom to [run]{.underline} the program for any
+-   **Freedom 0:** The freedom to [run] the program for any
     purpose.
 
--   **Freedom 1:** The freedom to [study]{.underline} how the program
-    works, and [change]{.underline} it to make it do what you wish.
+-   **Freedom 1:** The freedom to [study] how the program
+    works, and [change] it to make it do what you wish.
 
--   **Freedom 2:** The freedom to [redistribute]{.underline} copies so
+-   **Freedom 2:** The freedom to [redistribute] copies so
     you can help your neighbour.
 
--   **Freedom 3:** The freedom to [improve]{.underline} the program, and
+-   **Freedom 3:** The freedom to [improve] the program, and
     release your improvements (and modified versions in general) to the
     public, so that the whole community benefits.
 
@@ -897,7 +897,7 @@ Occupy Wall Street movement.
     Economía Sostenible (2011) or Ley de Propiedad Intelectual (2014)
     (which ultimately made companies like Google to close their News'
     service with a controversial release note
-    -[[https://support.google.com/news/answer/6140047?hl=es]{.underline}](https://support.google.com/news/answer/6140047?hl=es)).
+    -[[https://support.google.com/news/answer/6140047?hl=es]](https://support.google.com/news/answer/6140047?hl=es)).
     There are also examples of similar experiences worldwide, like the
     controversial Stop Online Piracy Act (SOPA), a United States bill
     introduced to expand the ability of U.S. law enforcement to combat
@@ -930,7 +930,7 @@ Occupy Wall Street movement.
     in 1993 several footnotes have been added to clarify several
     concepts, although the essence has been unchanged. The latest
     up-to-date version can be found on GNU's website:
-    [[http://www.gnu.org/gnu/manifesto.html]{.underline}](http://www.gnu.org/gnu/manifesto.html)
+    [[http://www.gnu.org/gnu/manifesto.html]](http://www.gnu.org/gnu/manifesto.html)
 
 [^81]: Stallman stated that "Programming has an irresistible fascination
     for some people, usually the people who are best at it", a position
@@ -956,7 +956,7 @@ Occupy Wall Street movement.
     software patents, such as Defective by design or Open Document
     campaign. For a comprehensive list of campaigns carried out by the
     Free Software Foundation visit
-    [[https://www.fsf.org/campaigns/]{.underline}](https://www.fsf.org/campaigns/)
+    [[https://www.fsf.org/campaigns/]](https://www.fsf.org/campaigns/)
 
 [^84]: In fact, Stallman was one of the first to earn money from Free
     Software, as during the first years of GNU Project, he used to sell
@@ -1033,7 +1033,7 @@ Occupy Wall Street movement.
 [^97]: However, the FSF admits that "the differences in extension of the
     category are small: nearly all free software is open source, and
     nearly all open source software is free."
-    ([[https://www.gnu.org/philosophy/categories.html]{.underline}](https://www.gnu.org/philosophy/categories.html))
+    ([[https://www.gnu.org/philosophy/categories.html]](https://www.gnu.org/philosophy/categories.html))
 
 [^98]: In his article, Sullivan (2011) explains FLOSS from the
     perspective of the four stages that frame any social movement
@@ -1160,7 +1160,7 @@ Occupy Wall Street movement.
     2002. Since then, several modifications have been released, and
     currently the most up-to-date version, v. 4.0, dates from November
     25, 2013. For more information about the latest version, visit:
-    [[https://blog.creativecommons.org/2013/11/25/ccs-next-generation-licenses-welcome-version-4-0/]{.underline}](https://blog.creativecommons.org/2013/11/25/ccs-next-generation-licenses-welcome-version-4-0/)
+    [[https://blog.creativecommons.org/2013/11/25/ccs-next-generation-licenses-welcome-version-4-0/]](https://blog.creativecommons.org/2013/11/25/ccs-next-generation-licenses-welcome-version-4-0/)
 
 [^116]: Although theoretically CC Licenses could be also applied to
     software and hardware, Creative Commons does not recommend the use
@@ -1175,7 +1175,7 @@ Occupy Wall Street movement.
     with other free software. Existing software licenses were designed
     specifically for use with software and offer a similar set of rights
     to the Creative Commons licenses."
-    ([[https://creativecommons.org/faq/\#Can\_I\_apply\_a\_Creative\_Commons\_license\_to\_software.3F]{.underline}](https://creativecommons.org/faq/#Can_I_apply_a_Creative_Commons_license_to_software.3F))
+    ([[https://creativecommons.org/faq/\#Can\_I\_apply\_a\_Creative\_Commons\_license\_to\_software.3F]](https://creativecommons.org/faq/#Can_I_apply_a_Creative_Commons_license_to_software.3F))
 
 [^117]: This licence is often compared to "copyleft" free and open
     source software licences, as it does not add any restriction other
@@ -1183,22 +1183,22 @@ Occupy Wall Street movement.
     same licence, so any derivatives will always be free, which means
     that will also allow commercial use.
 
-[^118]: [[https://creativecommons.org/choose/]{.underline}](https://creativecommons.org/choose/)
+[^118]: [[https://creativecommons.org/choose/]](https://creativecommons.org/choose/)
 
 [^119]: To give an idea about the differences between those two texts,
     we can take the most basic license (CC BY) and compare the legal
     version
-    ([[https://creativecommons.org/licenses/by/4.0/legalcode]{.underline}](https://creativecommons.org/licenses/by/4.0/legalcode))
+    ([[https://creativecommons.org/licenses/by/4.0/legalcode]](https://creativecommons.org/licenses/by/4.0/legalcode))
     and the legal deed
-    ([[https://creativecommons.org/licenses/by/4.0/]{.underline}](https://creativecommons.org/licenses/by/4.0/)).
+    ([[https://creativecommons.org/licenses/by/4.0/]](https://creativecommons.org/licenses/by/4.0/)).
     Whereas the first has an extension of 2.500 words, the latter only
     has 187 and make use of the aforementioned logos.
 
 [^120]: This standardised format has been named CC Rights Expression
     Language (CC REL). For more information on the
-    [[https://wiki.creativecommons.org/wiki/CC\_REL]{.underline}](https://wiki.creativecommons.org/wiki/CC_REL)
+    [[https://wiki.creativecommons.org/wiki/CC\_REL]](https://wiki.creativecommons.org/wiki/CC_REL)
 
-[^121]: [[http://search.creativecommons.org/]{.underline}](http://search.creativecommons.org/)
+[^121]: [[http://search.creativecommons.org/]](http://search.creativecommons.org/)
 
 [^122]: As Mayo Fuster states in the introduction to the Spanish edition
     of his book (Fuster Morell, 2015, p. 24), the relevance of *The
@@ -1272,9 +1272,9 @@ Occupy Wall Street movement.
 
 [^129]: Debian is a GNU/Linux distribution which is known, amongst other
     things, for its social contract
-    [[https://www.debian.org/social\_contract]{.underline}](https://www.debian.org/social_contract)
+    [[https://www.debian.org/social\_contract]](https://www.debian.org/social_contract)
     and its code of conduct
-    [[https://www.debian.org/code\_of\_conduct]{.underline}](https://www.debian.org/code_of_conduct)
+    [[https://www.debian.org/code\_of\_conduct]](https://www.debian.org/code_of_conduct)
     that any developer has to embrace in order to contribute to the
     project. Both documents have had several versions (as time of
     writing the latest versions date from April 26^th^, 2004 and April
