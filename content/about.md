@@ -12,6 +12,7 @@ Este sitio web contiene una versión online de la tesis pensada para ser vista e
 Como resultado de las posibles interacciones que se produzcan, se irá modificando ligeramente para ir solucionando esos gazapos. Quizá incluso intente traducirla, aunque no lo prometo. Para acceder a la versión que se presentó para la defensa podéis acceder a su descarga en el enlace siguiente:
 
 {{% button href="https://www.tdx.cat/handle/10803/565533" icon="fa fa-download" %}}Descargar Tesis original en PDF desde TDX{{% /button %}}
+{{% button href="https://zenodo.org/record/1251627" icon="fa fa-download" %}}Descargar Tesis original en PDF desde Zenodo{{% /button %}}
 
 {{% notice note %}}
 Como en la versión en PDF, esta obra está disponible bajo una licencia de [Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es_ES), por tanto eres libre de usar, copiar, modifcar y distribuir esta obra siempre que se mantenga la misma licencia, se cite su autoría y no se utilice para fines comerciales.
