@@ -20,3 +20,12 @@ El concepto de los comunes es tan poderosamente sugerente como ambiguo. Prueba d
 Para ello, tras un exhaustivo marco teórico que nos llevará a conocer las raíces y contradicciones del concepto, proponemos una lectura situada y basada en la práctica. A partir del estudio etnográfico de 29 casos (8 de ellos analizados con exhaustividad) de la Barcelona de principios de siglo XXI confeccionamos 5 hilos discursivos alrededor de sus reivindicaciones, autogestión e institucionalización, relacionalidad, materialidad y espacialidad y tecnología y cultura libres. Es a partir de su análisis donde obtenemos las claves para comprender sus vinculaciones con lo urbano y lo social y, en última instancia, caracterizar el concepto de común urbano para determinar si, efectivamente, pueden ser auténticos motores de transformación urbana, social y económica que den lugar a proponer ciudades y sociedades alternativas más justas.
 
 **Palabras Clave:** comunes, comunes urbanos, ciudad, crisis, derecho a la ciudad, etnografía, estudio de casos, informacionalismo.
+
+
+{{% notice note %}}
+Este sitio web contiene una versión online de la tesis pensada para ser vista en pantalla y que, con el tiempo, diferirá ligeramente de la tesis depositada (ver explicación [aquí](/es/about)). Para acceder a la versión que se presentó para la defensa podéis [descargar el PDF desde el repositorio TDX](https://www.tdx.cat/handle/10803/565533)
+{{% /notice %}}
+
+{{% notice warning %}}
+Dado que el trabajo de conversión del manuscrito a una plataforma web pasa por un proceso semi-automático que requiere supervisión manual, los contenidos los contenidos de esta web están incompletos y se irán subiendo paulatinamente. Por tanto, si se quiere hacer la lectura de la teiss completa es necesario [descargar el PDF desde el repositorio TDX](https://www.tdx.cat/handle/10803/565533)
+{{% /notice %}}
