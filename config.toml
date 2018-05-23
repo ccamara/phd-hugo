@@ -1,5 +1,5 @@
 baseURL = "http://phd.carloscamara.es"
-languageCode = "en-US"
+languageCode = "es-ES"
 defaultContentLanguage = "es"
 
 title = "Comunes urbanos: Lecciones desde la Barcelona de principios del siglo XXI"
@@ -45,6 +45,6 @@ url = "https://github.com/ccamara/phd-hugo"
 weight = 10
 
 [Languages.en]
-title = "Documentation for Hugo Learn Theme"
+title = "Urban Commons: Lessons from Barcelona at the beginning of 21st century"
 weight = 1
 languageName = "English"
