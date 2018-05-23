@@ -1,5 +1,5 @@
 +++
-title = "Comunes urbanos: Lecciones desde la Barcelona de principios del siglo XXI"
+title = "Inicio"
 description = "Una propuesta de caracterización"
 +++
 

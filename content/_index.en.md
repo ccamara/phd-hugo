@@ -1,5 +1,5 @@
 +++
-title = "Urban Commons: Lessons from Barcelona at the beginning of 21st century"
+title = "Home"
 description = "A characterization proposal"
 +++
 
