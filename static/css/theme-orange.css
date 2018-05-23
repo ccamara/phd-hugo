@@ -27,6 +27,7 @@
 
 body {
     color: var(--MAIN-TEXT-color) !important;
+    font-size: 18px !important;
 }
 
 textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[type="password"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="text"]:focus, input[type="url"]:focus, input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="month"]:focus, input[type="time"]:focus, input[type="week"]:focus, select[multiple=multiple]:focus {
@@ -34,8 +35,17 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
     box-shadow: none;
 }
 
-h2, h3, h4, h5 {
+h2, h3 {
     color: var(--MAIN-TITLES-TEXT-color) !important;
+}
+
+h4, h5 {
+  color: var(--MAIN-TITLES-TEXT-color);
+}
+
+#logo h4 {
+  color: white; !important
+  text-transform: capitalize;
 }
 
 a {
