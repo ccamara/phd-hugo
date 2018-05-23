@@ -9,7 +9,7 @@ metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
 
 [params]
-  editURL = "https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/"
+  editURL = "https://github.com/ccamara/phd-hugo/edit/master/content/"
   description = "Tesis doctoral"
   author = "Carlos Cámara-Menoyo"
   showVisitedLinks = true
@@ -41,48 +41,10 @@ weight = 1
 [[Languages.es.menu.shortcuts]]
 name = "<i class='fa fa-fw fa-github'></i> Github repo"
 identifier = "ds"
-url = "https://github.com/matcornic/hugo-theme-learn"
+url = "https://github.com/ccamara/phd-hugo"
 weight = 10
-
-[[Languages.es.menu.shortcuts]]
-name = "<i class='fa fa-fw fa-camera'></i> Showcases"
-url = "showcase"
-weight = 11
-
-[[Languages.es.menu.shortcuts]]
-name = "<i class='fa fa-fw fa-bookmark'></i> Hugo Documentation"
-identifier = "hugodoc"
-url = "https://gohugo.io/"
-weight = 20
-
-[[Languages.es.menu.shortcuts]]
-name = "<i class='fa fa-fw fa-bullhorn'></i> Credits"
-url = "/credits"
-weight = 30
 
 [Languages.en]
 title = "Documentation for Hugo Learn Theme"
 weight = 1
 languageName = "English"
-
-[[Languages.en.menu.shortcuts]]
-name = "<i class='fa fa-fw fa-github'></i> Github repo"
-identifier = "ds"
-url = "https://github.com/matcornic/hugo-theme-learn"
-weight = 10
-
-[[Languages.en.menu.shortcuts]]
-name = "<i class='fa fa-fw fa-camera'></i> Showcases"
-url = "showcase"
-weight = 11
-
-[[Languages.en.menu.shortcuts]]
-name = "<i class='fa fa-fw fa-bookmark'></i> Hugo Documentation"
-identifier = "hugodoc"
-url = "https://gohugo.io/"
-weight = 20
-
-[[Languages.en.menu.shortcuts]]
-name = "<i class='fa fa-fw fa-bullhorn'></i> Credits"
-url = "/credits"
-weight = 30
