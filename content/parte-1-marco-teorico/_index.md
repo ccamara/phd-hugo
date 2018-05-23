@@ -3,10 +3,10 @@ title = "Marco teórico"
 description = ""
 weight = 13
 chapter = true
-pre = "<b>Parte 1. </b>"
+pre = "<b>Parte I. </b>"
 +++
 
-### Parte 1
+### Parte I
 
 # Marco teórico
 

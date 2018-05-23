@@ -1,9 +1,9 @@
 +++
-title = "Referencias bibliográficas"
+title = "Análisis temático de los comunes urbanos en Barcelona"
 description = ""
-weight = 17
+weight = 2
 chapter = false
-pre = "<b>10. </b>"
+pre = "<b>7. </b>"
 +++
 
 {{% notice warning %}}

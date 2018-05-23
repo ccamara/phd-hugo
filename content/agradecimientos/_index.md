@@ -6,6 +6,8 @@ chapter = true
 pre = ""
 +++
 
+# Agradecimientos
+
 Aunque esta tesis está firmada por una sola persona, es, como todas las investigaciones, el resultado de la colaboración y del trabajo previo de muchas otras. Quiero, por tanto, agradecer su participación a quienes han hecho posible que esta investigación vea la luz y sea la que es en estos momentos.
 
 A mis directores de la Universitat Oberta de Catalunya, Pep y Ramon, con quienes he mantenido numerosas y enriquecedoras discusiones donde han demostrado su calidad investigadora y humana y cuyos resultados han contribuido a mejorar enormemente esta investigación. Espero seguir disfrutando de vuestra compañía y consejos en el futuro, esta vez como compañeros y colegas. A Jorge, que empezó su labor como director de forma espontánea y altruista, mucho antes de constar como tal, excediendo con creces su cometido como compañero en la Universidad San Jorge y demostrando, además, ser un buen guía y amigo. Espero que esta investigación haga justicia a todo lo que he aprendido de los tres.

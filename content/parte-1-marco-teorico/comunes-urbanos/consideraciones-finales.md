@@ -1,9 +1,10 @@
 +++
-title = "Referencias bibliográficas"
+title = "Consideraciones finales"
 description = ""
-weight = 17
-chapter = false
-pre = "<b>10. </b>"
+date = ""
+weight = 4
+math = false
+
 +++
 
 {{% notice warning %}}

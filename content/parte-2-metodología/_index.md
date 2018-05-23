@@ -3,9 +3,9 @@ title = "Metodología"
 description = ""
 weight = 14
 chapter = true
-pre = "<b>Parte 2. </b>"
+pre = "<b>Parte II. </b>"
 +++
 
-### Parte 2
+### Parte II
 
 # Metodología

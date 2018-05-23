@@ -1,9 +1,9 @@
 +++
-title = "Referencias bibliográficas"
+title = "Lecciones desde la práctica: una propuesta de caracterización"
 description = ""
-weight = 17
+weight = 3
 chapter = false
-pre = "<b>10. </b>"
+pre = "<b>8. </b>"
 +++
 
 {{% notice warning %}}

@@ -1,9 +1,10 @@
 +++
-title = "Referencias bibliográficas"
+title = "Aspectos compartidos y limitaciones de las visiones teóricas"
 description = ""
-weight = 17
-chapter = false
-pre = "<b>10. </b>"
+date = ""
+weight = 3
+math = false
+
 +++
 
 {{% notice warning %}}

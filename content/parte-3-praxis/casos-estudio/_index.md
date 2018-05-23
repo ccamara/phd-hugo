@@ -1,9 +1,9 @@
 +++
-title = "Referencias bibliográficas"
+title = "Casos de estudio"
 description = ""
-weight = 17
+weight = 1
 chapter = false
-pre = "<b>10. </b>"
+pre = "<b>6. </b>"
 +++
 
 {{% notice warning %}}
