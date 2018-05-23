@@ -20,7 +20,7 @@ gestión comunitaria de acequias de regadío, la creación cultural de
 libros o de música, la educación, el desarrollo de software, Internet o
 el genoma humano, entre otros.
 
-En el capítulo [2](#anchor-14) repasamos con detalle tres de esas
+En el [capítulo 2](/es/parte-1-marco-teorico/the-commons-state-of-art/) repasamos con detalle tres de esas
 evoluciones paralelas que hemos llamado, respectivamente, genealogía
 institucional, genealogía digital y genealogía activista. Es a partir de
 la combinación de las tres que se ha ido conformando un nuevo tipo de
@@ -46,7 +46,7 @@ de hacer una lectura situada en un contexto geográfico y social
 concretos. En este sentido, hemos optado por realizar una aproximación
 empírica a partir del análisis de casos prácticos desarrollados en la
 Barcelona de principios del siglo XXI. De este modo, y tras un proceso
-etnográfico de casi cinco años, en el capítulo [6](#anchor-53), hemos
+etnográfico de casi cinco años, en el [capítulo 6](/es/parte-3-praxis/casos-estudio/), hemos
 hecho una descripción exhaustiva a través de 8 características de
 estudio de 8 casos representativos y variados en cuanto a su tipología,
 los resultados obtenidos y su ubicación geográfica.
@@ -82,7 +82,7 @@ concretamente del urbanismo neoliberal, cuyo *modus operandi* se basa en
 procesos de cercamiento de todo tipo.
 
 El hecho de utilizar las mismas categorías para explicar los casos de
-estudio ha permitido, en el capítulo [7](#anchor-131), hilvanar 5 hilos
+estudio ha permitido, en el [capítulo 7](/es/parte-3-praxis/análisis-temático/), hilvanar 5 hilos
 discursivos con respecto a las reivindicaciones políticas; la componente
 autogestionada e institucional; las relaciones sociales que se
 establecen en ellos y entre ellos; la manera en que se materializan y se
@@ -153,7 +153,7 @@ prácticas sociales.
 
 Dicha caracterización ha evidenciado el carácter liminal de los comunes
 urbanos, uno de sus aspectos más característicos y que refleja como
-ninguno su naturaleza contradictoria\[469\], ya que allí radican sus
+ninguno su naturaleza contradictoria[^469], ya que allí radican sus
 mayores problemas y, a la vez, sus principales potencialidades. Con ello
 nos referimos a que todos los casos estudiados se mueven continuamente
 entre dos polos opuestos: lo público (representado por el Estado) y lo
@@ -185,13 +185,7 @@ espacios donde se ubican vuelven a tener valor y sus propietarios
 quieren reclamarlos para ejecutar lucrativas operaciones urbanísticas.
 Esta pregunta cobra especial vigencia en fecha de finalización de esta
 tesis dado que los precios de los alquileres de pisos en Barcelona están
-empezando a dispararse de nuevo
-<span id="ZOTERO_ITEM CSL_CITATION {&quot;citationID&quot;:&quot;Rh4Kdnn7&quot;,&quot;properties&quot;:{&quot;formattedCitation&quot;:&quot;{\\rtf (Baquero, 2017; Departament d\\uc0\\u8217{}Estad\\uc0\\u237{}stica. Ajuntament de Barcelona, 2017; Salvador, 2017)}&quot;,&quot;plainCitation&quot;:&quot;(Baquero, 2017; Departament d’Estadística. Ajuntament de Barcelona, 2017; Salvador, 2017)&quot;},&quot;citationItems&quot;:[{&quot;id&quot;:29,&quot;uris&quot;:[&quot;http://zotero.org/users/695386/items/AQVJUXSM&quot;],&quot;uri&quot;:[&quot;http://zotero.org/users/695386/items/AQVJUXSM&quot;],&quot;itemData&quot;:{&quot;id&quot;:29,&quot;type&quot;:&quot;article-newspaper&quot;,&quot;title&quot;:&quot;El precio de los alquileres sube un 9% en Barcelona, según la Generalitat&quot;,&quot;container-title&quot;:&quot;EL PAÍS&quot;,&quot;abstract&quot;:&quot;Los datos arrojados por las fianzas depositadas en el Incasòl difieren de las de portales inmobiliarios&quot;,&quot;URL&quot;:&quot;http://ccaa.elpais.com/ccaa/2017/03/03/catalunya/1488540576_450794.html&quot;,&quot;language&quot;:&quot;es&quot;,&quot;author&quot;:[{&quot;family&quot;:&quot;Baquero&quot;,&quot;given&quot;:&quot;Camilo S.&quot;}],&quot;issued&quot;:{&quot;date-parts&quot;:[[&quot;2017&quot;,3,3]]},&quot;accessed&quot;:{&quot;date-parts&quot;:[[&quot;2017&quot;,3,28]]}}},{&quot;id&quot;:1502,&quot;uris&quot;:[&quot;http://zotero.org/users/695386/items/4ANGK6TE&quot;],&quot;uri&quot;:[&quot;http://zotero.org/users/695386/items/4ANGK6TE&quot;],&quot;itemData&quot;:{&quot;id&quot;:1502,&quot;type&quot;:&quot;webpage&quot;,&quot;title&quot;:&quot;Mitjana del lloguer mensual  a Barcelona (€/mes)&quot;,&quot;URL&quot;:&quot;http://www.bcn.cat/estadistica/catala/dades/timm/ipreus/habllo/evo/tlloge.htm&quot;,&quot;language&quot;:&quot;ca&quot;,&quot;author&quot;:[{&quot;literal&quot;:&quot;Departament d&#39;Estadística. Ajuntament de Barcelona&quot;}],&quot;issued&quot;:{&quot;date-parts&quot;:[[&quot;2017&quot;]]},&quot;accessed&quot;:{&quot;date-parts&quot;:[[&quot;2017&quot;,9,11]]}}},{&quot;id&quot;:28,&quot;uris&quot;:[&quot;http://zotero.org/users/695386/items/H49X6RIA&quot;],&quot;uri&quot;:[&quot;http://zotero.org/users/695386/items/H49X6RIA&quot;],&quot;itemData&quot;:{&quot;id&quot;:28,&quot;type&quot;:&quot;article-newspaper&quot;,&quot;title&quot;:&quot;300 e-mails en 3 horas por un alquiler&quot;,&quot;container-title&quot;:&quot;La Vanguardia&quot;,&quot;publisher-place&quot;:&quot;Barcelona&quot;,&quot;event-place&quot;:&quot;Barcelona&quot;,&quot;abstract&quot;:&quot;&#39;Cuando publicamos un anuncio para alquilar un piso por menos de 800 euros recibimos un aluvión de correos de contactos, 300 en solo tres horas&#39;, explica gráficamente Guifré Homedes, gerente de la...&quot;,&quot;URL&quot;:&quot;http://www.lavanguardia.com/economia/20170323/421106384685/falta-oferta-pisos-alquiler-barcelona-aumento-precios.html&quot;,&quot;author&quot;:[{&quot;family&quot;:&quot;Salvador&quot;,&quot;given&quot;:&quot;Rosa&quot;}],&quot;issued&quot;:{&quot;date-parts&quot;:[[&quot;2017&quot;,3,23]]},&quot;accessed&quot;:{&quot;date-parts&quot;:[[&quot;2017&quot;,3,28]]}}}],&quot;schema&quot;:&quot;https://github.com/citation-style-language/schema/raw/master/csl-citation.json&quot;} RNDdGKTj2Ymsw"></span>(Baquero,
-2017; Departament d’Estadística. Ajuntament de Barcelona, 2017;
-Salvador, 2017) y las denuncias por operaciones gentrificadoras y
-especuladoras vuelven a aparecer\[470\]
-<span id="ZOTERO_ITEM CSL_CITATION {&quot;citationID&quot;:&quot;hxKcdQFf&quot;,&quot;properties&quot;:{&quot;formattedCitation&quot;:&quot;{\\rtf (El Peri\\uc0\\u243{}dico, 2017b; L\\uc0\\u243{}pez, 2017)}&quot;,&quot;plainCitation&quot;:&quot;(El Periódico, 2017b; López, 2017)&quot;},&quot;citationItems&quot;:[{&quot;id&quot;:32,&quot;uris&quot;:[&quot;http://zotero.org/users/695386/items/TQBSTTW5&quot;],&quot;uri&quot;:[&quot;http://zotero.org/users/695386/items/TQBSTTW5&quot;],&quot;itemData&quot;:{&quot;id&quot;:32,&quot;type&quot;:&quot;article-newspaper&quot;,&quot;title&quot;:&quot;Gala Pin denuncia la \&quot;violencia inmobiliaria\&quot; de los \&quot;matones de billetera\&quot;&quot;,&quot;container-title&quot;:&quot;El Periódico de Catalunya&quot;,&quot;abstract&quot;:&quot;La concejala de Ciutat Vella para las obras que MK Premium había iniciado en el 13 de Lancaster, pese a que aún queda una familia en la finca&quot;,&quot;URL&quot;:&quot;http://www.elperiodico.com/es/noticias/barcelona/gala-pin-denuncia-violencia-inmobiliaria-los-matones-billetera-5912446&quot;,&quot;author&quot;:[{&quot;literal&quot;:&quot;El Periódico&quot;}],&quot;issued&quot;:{&quot;date-parts&quot;:[[&quot;2017&quot;,3,20]]},&quot;accessed&quot;:{&quot;date-parts&quot;:[[&quot;2017&quot;,3,28]]}}},{&quot;id&quot;:30,&quot;uris&quot;:[&quot;http://zotero.org/users/695386/items/S2HX75HA&quot;],&quot;uri&quot;:[&quot;http://zotero.org/users/695386/items/S2HX75HA&quot;],&quot;itemData&quot;:{&quot;id&quot;:30,&quot;type&quot;:&quot;article-newspaper&quot;,&quot;title&quot;:&quot;Esto es como una cebolla; van quitando capas&quot;,&quot;container-title&quot;:&quot;El Periódico&quot;,&quot;abstract&quot;:&quot;La finca de esta mujer, en la calle de Sant Bartomeu, ha sido adquirida por unos inversores que quieren vaciarla&quot;,&quot;URL&quot;:&quot;http://www.elperiodico.com/es/noticias/barcelona/que-ley-nos-protege-gente-trabajadora-5911206&quot;,&quot;author&quot;:[{&quot;family&quot;:&quot;López&quot;,&quot;given&quot;:&quot;Helena&quot;}],&quot;issued&quot;:{&quot;date-parts&quot;:[[&quot;2017&quot;,3,20]]},&quot;accessed&quot;:{&quot;date-parts&quot;:[[&quot;2017&quot;,3,28]]}}}],&quot;schema&quot;:&quot;https://github.com/citation-style-language/schema/raw/master/csl-citation.json&quot;} RNDxFjEKna2uL"></span>(El
-Periódico, 2017b; López, 2017).
+empezando a dispararse de nuevo (Baquero, 2017; Departament d’Estadística. Ajuntament de Barcelona, 2017; Salvador, 2017) y las denuncias por operaciones gentrificadoras y especuladoras vuelven a aparecer[^470] (El Periódico, 2017b; López, 2017).
 
 Por otra parte, la voluntad de querer mantenerse al margen del Estado y
 del Mercado a menudo hace que únicamente cuenten con sus propios medios
@@ -207,13 +201,13 @@ comunes urbanos podrían tener unos efectos tan negativos como los de las
 políticas neoliberales a las que se oponen.
 
 Esta condición de precariedad pone el modelo económico en el centro de
-los debates de muchos de los casos estudiados\[471\], aunque las
+los debates de muchos de los casos estudiados[^471], aunque las
 respuestas varían de uno a otro: mientras que los hay que prefieren
 gestionarse únicamente con recursos propios, otros necesitan, en mayor o
 menor grado, la colaboración de las Administraciones. Se da, de este
 modo, una nueva paradoja en la que, a menudo, la propia Administración
 contra la que se rebelan termina actuando como mediadora o, incluso,
-como colaboradora clave (ya sea por acción u omisión\[472\]) para el
+como colaboradora clave (ya sea por acción u omisión[^472]) para el
 desempeño de las reivindicaciones y las acciones de los comunes urbanos.
 Además, para poder relacionarse con la Administración, los comunes
 urbanos necesitan seguir los cauces legales establecidos a tal efecto,
@@ -224,7 +218,7 @@ Mercado. Esta dependencia en la Administración, incluso cuando no es
 deseada, conlleva otro tipo de riesgo que evidencia la fragilidad de los
 comunes: la cooptación o apropiación, para su propio beneficio, de las
 prácticas y discursos de los comunes por parte de terceras partes como
-son los gobiernos políticos\[473\].
+son los gobiernos políticos[^473].
 
 Por otra parte, el hecho de que tengan una localización muy clara, un
 tamaño relativamente pequeño y un presupuesto bajo podría parecer que se
@@ -290,8 +284,7 @@ bien resultan de la suma de propuestas aisladas y fragmentadas que se
 complementan y enriquecen las unas con las otras.
 
 Por último, un aspecto que destaca de todos los casos estudiados es su
-componente ilusionante. En una entrevista reciente
-<span id="ZOTERO_ITEM CSL_CITATION {&quot;citationID&quot;:&quot;lXnKTS8Q&quot;,&quot;properties&quot;:{&quot;formattedCitation&quot;:&quot;(Evole, 2016)&quot;,&quot;plainCitation&quot;:&quot;(Evole, 2016)&quot;},&quot;citationItems&quot;:[{&quot;id&quot;:1611,&quot;uris&quot;:[&quot;http://zotero.org/users/695386/items/SXMPSNEM&quot;],&quot;uri&quot;:[&quot;http://zotero.org/users/695386/items/SXMPSNEM&quot;],&quot;itemData&quot;:{&quot;id&quot;:1611,&quot;type&quot;:&quot;broadcast&quot;,&quot;title&quot;:&quot;Naomi Klein: Nace, vive y consume&quot;,&quot;container-title&quot;:&quot;AtresPlayer.com&quot;,&quot;abstract&quot;:&quot;Salvados entrevista en el programa de esta semana a la periodista y escritora canadiense Naomi Klein, que con sus libros se ha convertido en un referente entre quienes cuestionan la globalización y el capitalismo salvaje. En la conversación con Jordi Évole, Klein reflexiona sobre los efectos del sistema capitalista en nuestro día a día y sus posibles alternativas.\nEn la entrevista, Klein habla del poder que siguen teniendo las grandes marcas y nos describe lo que ella llama “la doctrina del shock”: el libre mercado y el neoliberalismo se imponen implementando sus políticas más impopulares, como recortes o privatizaciones, en momentos de “shock” y gran desconcierto, como pueden ser desastres naturales o crisis severas. \nPara Klein, la raíz de esta práctica está en “descubrir que la democracia es un problema para el neoliberalismo” y necesita aprovechar momentos de “shock” para no encontrar resistencia.\nEl periodista Joaquín de Estefanía nos cuenta que esta doctrina viene del economista Milton Friedman, y comenta algunos casos en los que se aplicó, como Pinochet en Chile tras el golpe del 73, Margaret Thatcher tras la guerra de las Malvinas, o George Bush tras el huracán Katrina.\nFrente a este sistema, Naomi Klein asegura a Jordi Évole que “decir ‘No’ no es suficiente y hay que proponer una alternativa que genere confianza”. Esta alternativa puede venir a través del cambio climático: para combatirlo no bastará con aplicar medidas sobre el medio ambiente: hay que aprovechar para hacer un cambio global que afecte a todo el sistema. \n¿Hay alguna alternativa realista al capitalismo desaforado? ¿Por qué hay gente que hace cola para gastarse casi 800 euros en un teléfono? ¿Se puede vivir de forma alternativa sin abandonarlo todo e irse a vivir al campo? ¿Se puede producir de forma sostenible? ¿El mercado está preocupado por el cambio climático? ¿Es la lucha contra el cambio climático una oportunidad real de cambiar el sistema?&quot;,&quot;URL&quot;:&quot;http://www.atresplayer.com/television/programas/salvados/temporada-12/capitulo-4-naomi-klein-nace-vive-consume_2016111400673.html&quot;,&quot;author&quot;:[{&quot;family&quot;:&quot;Evole&quot;,&quot;given&quot;:&quot;Jordi&quot;}],&quot;issued&quot;:{&quot;date-parts&quot;:[[&quot;2016&quot;,11,6]]},&quot;accessed&quot;:{&quot;date-parts&quot;:[[&quot;2017&quot;,6,25]]}}}],&quot;schema&quot;:&quot;https://github.com/citation-style-language/schema/raw/master/csl-citation.json&quot;} RNDQtqGUnKa7F"></span>(Evole,
+componente ilusionante. En una entrevista reciente (Evole,
 2016), Naomi Klein, una de las primeras personas en hablar de los
 comunes como forma de activismo, afirmaba que la gente en Europa está
 cansada de resistir únicamente (ocupando plazas, manifestándose…) y por
@@ -300,5 +293,32 @@ también se tomasen posiciones «ofensivas, propositivas y motivadoras».
 Los comunes urbanos son, precisamente, parte de esa respuesta
 propositiva, motivadora de que otras realidades fuera del sistema son
 posibles y no son lejanas: pueden hacerse en la misma ciudad, en tu
-mismo
-    barrio.
+mismo barrio.
+
+[^469]: Ver figuras 7.8 y 7.9 de la sección 7.3, donde se desarrollan el
+    tipo de relaciones existentes entre los distintos casos estudiados.
+
+[^470]: Remitimos a la sección 7.5 donde se ha desarrollado con mayor
+    profundidad el papel que juega la tecnología en los comunes urbanos
+    analizados.
+
+[^471]: Cabe destacar que algunas de las reivindicaciones también tienen
+    aspectos en común con la noción de autonomía postulada por el
+    movimiento del software libre en genereal y con la posición de
+    Richard Stallman en particular (ver sección 3.2).
+
+[^472]: A modo de ejemplo, aunque en contexto totalmente distinto,
+    Esteve Corbera, Laura Calvet-Mir, Hannah Hughes y Matthew Paterson
+    explican la evolución del discurso acerca del cambio climático a
+    través de un estudio de redes realizado a los integrantes del
+    Intergovernmental Panel on Climate Change (Corbera, Calvet-Mir,
+    Hughes, y Paterson, 2016).
+
+[^473]:  Para ello remitimos al Pla Pel Dret a l'Habitatge (Ajuntament
+    de Barcelona, Regidoria d'habitatge, 2017), un documento aprobado
+    por la mayoría de partidos (salvo ERC, CUP y PP) en el que se
+    determinan cuales van a ser las políticas y actuaciones para
+    garantizar que el acceso a la vivienda sea un derecho. Entre ellas
+    destacan la promoción de viviendas en régimen de cesión de uso o
+    *masovería urbana*, dos fórmulas basadas en compartir apenas
+    explotadas anteriormente.
