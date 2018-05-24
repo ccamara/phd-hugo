@@ -19,7 +19,7 @@ Como en la versión en PDF, esta obra está disponible bajo una licencia de [Cre
 {{% /notice %}}
 
 {{% notice tip %}}
-Para la realización de esta tesis se ha utilizado, exclusivamente, softtare libre: [LibreOffce](http://libreoffice.org/), [Zotero](http://zotero.org), [R](https://www.r-project.org/), [GIMP](http://gimp.org), [Inkscape](http://inkscape.org), [QGIS](http://qgis.org), [Gephi](http://gephi.org/).
+Para la realización de esta tesis se ha utilizado, exclusivamente, software libre: [LibreOffice](http://libreoffice.org/), [Zotero](http://zotero.org), [R](https://www.r-project.org/), [GIMP](http://gimp.org), [Inkscape](http://inkscape.org), [QGIS](http://qgis.org), [Gephi](http://gephi.org/).
 {{% /notice %}}
 
 {{% notice tip %}}
