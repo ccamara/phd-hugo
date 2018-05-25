@@ -33,7 +33,7 @@ url = "/about"
 weight = 0
 
 [[Languages.es.menu.shortcuts]]
-name = "<i class='fa fa-fw fa-user-circle'></i> Sobre el autor"
+name = "<i class='fa fa-fw fa-user-circle'></i> Sobre el autor (Carlos Cámara)"
 identifier = "author"
 url = "https://carloscamara.es"
 weight = 1
