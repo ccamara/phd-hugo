@@ -55,7 +55,7 @@ en el momento en el que grupos sociales se apropian de él para
 protegerlo, mejorarlo en beneficio
 mutuo.
 
-{{< figure src="/img/cap2/2008_community_garden_JacksonvilleFL_2527237610.png" title="Fig. 4.1: Huerto urbano en Jacksonville (USA). Fuente: Jeff Wright (CC-BY)." numbered="true" >}}
+{{< figure src="/img/part1/2008_community_garden_JacksonvilleFL_2527237610.png" title="Fig. 4.1: Huerto urbano en Jacksonville (USA). Fuente: Jeff Wright (CC-BY)." numbered="true" >}}
 
 Asimismo, existe un grupo de autores que asimilan parques, plazas,
 calles y en general, el espacio público (Bruun, 2015; Ferguson, 2014;
@@ -82,7 +82,7 @@ Barcelona se convirtieron en comunes urbanos en el momento en el que la
 gente se concentró en ellas para expresar sus demandas
 políticas.
 
-{{< figure src="/img/cap2/Saettedammen-cohousing.jpg" title="Fig. 4.2: Dos momentos de Saettedammen, la primera cooperativa de cohousing en Dinamarca (1972 - Actualidad). Fuente: Saettedammen" numbered="true" >}}
+{{< figure src="/img/part1/Saettedammen-cohousing.jpg" title="Fig. 4.2: Dos momentos de Saettedammen, la primera cooperativa de cohousing en Dinamarca (1972 - Actualidad). Fuente: Saettedammen" numbered="true" >}}
 
 También existe literatura de casos de estudio más variados, como el caso
 de las guías gay de Londres y Berlín en los años 1930. Para Leif Jerram
@@ -104,7 +104,7 @@ las ciudades, se los apela como comunes
 urbanos.
 
 
-{{< figure src="/img/cap2/Hydeparkapril87.jpg" title="Fig. 4.3: Speakers' Corner de Hyde Park (1987): un ejemplo de común urbano según Davina Cooper. Fuente: Michael E. Cumpston (CC-BY-SA)" numbered="true" >}}
+{{< figure src="/img/part1/Hydeparkapril87.jpg" title="Fig. 4.3: Speakers' Corner de Hyde Park (1987): un ejemplo de común urbano según Davina Cooper. Fuente: Michael E. Cumpston (CC-BY-SA)" numbered="true" >}}
 
 Otros grupos de ejemplos más controvertidos serían los formado por
 centros sociales (incluso -o especialmente- los okupados) (Hodkinson y
@@ -115,7 +115,7 @@ communities*) (Colding, 2011; LeGoix y Webster, 2006) que tanto
 proliferan en Estados Unidos, América Latina y
 Asia.
 
-{{< figure src="/img/cap2/chureca1.jpg" title="Fig. 4.4: Vertedero de la Chureca (Managua), considerado también un común urbano por Zapata y Zapata. Fuente: Gonzalo Bauluz (CC-BY)" numbered="true" >}}
+{{< figure src="/img/part1/chureca1.jpg" title="Fig. 4.4: Vertedero de la Chureca (Managua), considerado también un común urbano por Zapata y Zapata. Fuente: Gonzalo Bauluz (CC-BY)" numbered="true" >}}
 
 Por último están los que entienden la ciudad al completo (tanto desde el
 punto de vista físico --recursos, edificios e infraestructuras...-- como

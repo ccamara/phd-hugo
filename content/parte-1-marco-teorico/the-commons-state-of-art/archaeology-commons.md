@@ -34,7 +34,7 @@ been studied from different perspectives, as we will further develop in
 the upcoming pages in which we will try to define the concept of the
 commons.
 
-{{< figure src="/img/cap2/scopus-commons-evolution.png" title="Fig. 2.1. Evolution of documents containing the word “Commons” in Scopus database (1980-2016).." numbered="true" >}}
+{{< figure src="/img/part1/scopus-commons-evolution.png" title="Fig. 2.1. Evolution of documents containing the word “Commons” in Scopus database (1980-2016).." numbered="true" >}}
 
 
 From the Spanish perspective, Nebrija's Dictionary, a Spanish dictionary

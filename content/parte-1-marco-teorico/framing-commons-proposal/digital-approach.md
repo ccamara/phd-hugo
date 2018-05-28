@@ -226,7 +226,7 @@ easy to find them all and put them together, and in order to make things
 easier GNU/Linux[^92] distributions were created, which were complete
 packages ready to use, even for end users.
 
-{{< figure src="/img/cap2/59416-linuxdistrotimeline-7.5.svg" title="Fig. 3.2: A GNU/Linux Distros timeline until 2007. Source: Aleksandar Urosevic (GPL)" numbered="true" >}}
+{{< figure src="/img/part1/59416-linuxdistrotimeline-7.5.svg" title="Fig. 3.2: A GNU/Linux Distros timeline until 2007. Source: Aleksandar Urosevic (GPL)" numbered="true" >}}
 
 Paradoxically, despite these two pieces of the puzzle fit perfectly, the
 tandem formed by GNU and Linux is, in fact, a marriage of convenience:
@@ -708,7 +708,7 @@ considered as strict "Free licences" in terms of they grant the freedoms
 that where described at the end of the previous section, whereas the
 rest of licenses fail on that matter (Figure3.3).
 
-{{< figure src="/img/cap2/CC-LICENCES.png" title="Fig. 3.3: Licences ordered from most to least open. Source: CCM." numbered="true" >}}
+{{< figure src="/img/part1/CC-LICENCES.png" title="Fig. 3.3: Licences ordered from most to least open. Source: CCM." numbered="true" >}}
 
 Another significant difference between CC Licenses and other types of
 free licences, is what they call "Three-layer" design, which means that
@@ -877,7 +877,7 @@ political opportunities that are the subject of this book" (Benkler,
 2006, p. 34), and the field of politics and social action is an example
 of it.
 
-{{< figure src="/img/cap2/panoramica-acampada-sol.jpg" title="Fig. 3.4 15M movement in Madrid’s Puerta del Sol. Credits: La información" numbered="true" >}}
+{{< figure src="/img/part1/panoramica-acampada-sol.jpg" title="Fig. 3.4 15M movement in Madrid’s Puerta del Sol. Credits: La información" numbered="true" >}}
 
 
 Again, time has proved Benkler right, as since 2006, there have been

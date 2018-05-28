@@ -81,7 +81,7 @@ share is the need of a new global order built upon principles that are
 not based on competency and profit but cooperation and sharing that
 eventually replaces capitalism.
 
-{{< figure src="/img/cap2/collage-carteles-zapatistas.jpg" title="Fig. 3.5: Several Zapatista’s signs on occupied zones displaying their political claims and ideology." numbered="true" >}}
+{{< figure src="/img/part1/collage-carteles-zapatistas.jpg" title="Fig. 3.5: Several Zapatista’s signs on occupied zones displaying their political claims and ideology." numbered="true" >}}
 
 ## Capitalism, accumulation and commons
 

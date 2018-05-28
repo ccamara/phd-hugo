@@ -273,7 +273,7 @@ point out: the number of times that it has been cited since its
 publication has not only increased till 2009 but has always outnumbered
 quotes from Hardin's article (figure 3.1).
 
-{{< figure src="/img/cap2/scopus-commons-citations.png" title="Fig. 3.1. Citation numbers for Governing the Commons (Ostrom) and Tragedy of the Commons (Hardin). Source: Scopus (data), CCM.." numbered="true" >}}
+{{< figure src="/img/part1/scopus-commons-citations.png" title="Fig. 3.1. Citation numbers for Governing the Commons (Ostrom) and Tragedy of the Commons (Hardin). Source: Scopus (data), CCM.." numbered="true" >}}
 
 
 As Frank van Laerhoven and Erling Berge (2011) argue on the Editorial of

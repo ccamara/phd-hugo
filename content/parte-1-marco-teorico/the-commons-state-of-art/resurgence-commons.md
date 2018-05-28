@@ -248,7 +248,7 @@ overlaps between sectors in some cases and there were some groups which
 had a clear physical dimension whereas others were in fact examples of
 social groups or collective action.
 
-{{< figure src="/img/cap2/hess-mapping-commons.png" title="Fig. 2.2. Charlotte Hess' mapping of the \"New Commons\"." numbered="true" >}}
+{{< figure src="/img/part1/hess-mapping-commons.png" title="Fig. 2.2. Charlotte Hess' mapping of the \"New Commons\"." numbered="true" >}}
 
 On the other hand, Yochai Benkler made an entirely different
 classification, as his proposal resulted from the combination of two
