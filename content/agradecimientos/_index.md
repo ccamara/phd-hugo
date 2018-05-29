@@ -12,11 +12,11 @@ Aunque esta tesis está firmada por una sola persona, es, como todas las investi
 
 A mis directores de la Universitat Oberta de Catalunya, Pep y Ramon, con quienes he mantenido numerosas y enriquecedoras discusiones donde han demostrado su calidad investigadora y humana y cuyos resultados han contribuido a mejorar enormemente esta investigación. Espero seguir disfrutando de vuestra compañía y consejos en el futuro, esta vez como compañeros y colegas. A Jorge, que empezó su labor como director de forma espontánea y altruista, mucho antes de constar como tal, excediendo con creces su cometido como compañero en la Universidad San Jorge y demostrando, además, ser un buen guía y amigo. Espero que esta investigación haga justicia a todo lo que he aprendido de los tres.
 
-A mis padres Javier y Mapi. Porque con ellos empezó todo (literalmente), porque siempre han velado por mi y porque, con su ejemplo, han alimentado en mí la necesidad de aprender y cuestionarme las cosas. Porque son los mejores padres que podría tener.
+A mis padres Javier y Mapi.</br>Porque con ellos empezó todo (literalmente), porque siempre han velado por mi y porque, con su ejemplo, han alimentado en mí la necesidad de aprender y cuestionarme las cosas. </br>Porque son los mejores padres que podría tener.
 
-A mi hermano David, por su apoyo y amor incondicional y por estar siempre a mi lado. Porque es el mejor hermano que podría tener.
+A mi hermano David. </br>Por su apoyo y amor incondicional y por estar siempre a mi lado. </br>Porque es el mejor hermano que podría tener.
 
-A Laura. Gracias por ponerme las cosas tan fáciles durante los años que ha durado esta tesis. Gracias por tu amor, apoyo y cariño. Gracias por leerte la tesis de cabo a rabo y por acabar conociéndola mejor que yo mismo. Gracias por hacerme ver las cosas con otros ojos. Gracias por tus correcciones de estilo, ortográficas y gramaticales (con dibujitos y notas al margen incluidos). Gracias a ti esta tesis es mucho más fácil y agradecida de leer. Es mejor. Como mi vida, que también es mejor gracias a ti.
+A Laura. </br>Gracias por ponerme las cosas tan fáciles durante los años que ha durado esta tesis. Gracias por tu amor, apoyo y cariño. Gracias por leerte la tesis de cabo a rabo y por acabar conociéndola mejor que yo mismo. Gracias por hacerme ver las cosas con otros ojos. Gracias por tus correcciones de estilo, ortográficas y gramaticales (con dibujitos y notas al margen incluidos). Gracias a ti esta tesis es mucho más fácil y agradecida de leer. Es mejor. Como mi vida, que también es mejor gracias a ti.
 
 A Javier, Ana, Claudio, Jorge, Lourdes, Jonas, Jorge, Antonio, Santi, Jaime, José y resto de compañeros de la Universidad San Jorge, por su apoyo. Sin su ayuda, sus conversaciones, las comidas que hemos compartido y los buenos momentos que hemos pasado juntos, estos cursos hubiesen sido mucho más duros de llevar.
 
