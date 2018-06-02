@@ -7,7 +7,7 @@ La defensa de la tesis tuvo lugar el día 30 de enero de 2018 en el edificio de 
 
 A continuación comparto el vídeo[^1] del acto y las diapositivas, y en [este artículo de mi blog](http://www.carloscamara.es/blog/2018/02/05/soy-doctor/) cuento la visión más personal del día.
 
-{{< youtube HoYcpvSlqzQ  >}}
+{{< youtube GxcbwVOOGoQ  >}}
 
 Y las diapositivas de la defensa:
 
