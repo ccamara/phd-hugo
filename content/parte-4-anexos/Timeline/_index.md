@@ -21,4 +21,4 @@ primera muestra los partidos políticos que estaban en el gobierno del Ayuntamie
 desarrolladas por el propio consistorio.
 
 
-<iframe width="100%" height="520" frameborder="0" src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1w7JSqVlPvEkABrejLStfoY6DPi5psvOnRco0KMa64zg&font=Default&lang=es&hash_bookmark=true&initial_zoom=8&start_at_slide=3&height=650#event-_15m" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe width="100%" height="820" frameborder="0" src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1w7JSqVlPvEkABrejLStfoY6DPi5psvOnRco0KMa64zg&font=Default&lang=es&hash_bookmark=true&initial_zoom=8&start_at_slide=3&height=650#event-_15m" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
